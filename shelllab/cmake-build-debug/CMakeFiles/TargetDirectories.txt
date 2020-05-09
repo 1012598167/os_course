@@ -1,0 +1,3 @@
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/os/shelllab/cmake-build-debug/CMakeFiles/cnnb.dir
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/os/shelllab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/os/shelllab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
